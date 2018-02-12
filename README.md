@@ -14,7 +14,7 @@ Packages required to run the code:
 * Clone the repository to your machine. 
 ```
 cd folder
-git clone https://github.com/AadityaVora/image-abstraction
+git clone https://github.com/aditya-vora/image-abstraction
 cd image-abstraction
 ```
 
